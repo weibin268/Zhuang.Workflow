@@ -5,7 +5,8 @@ using System.Text;
 
 namespace Zhuang.Workflow.Core
 {
-    public class Class1
+    public class WorkflowApp
     {
+
     }
 }
